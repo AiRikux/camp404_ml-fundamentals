@@ -29,3 +29,11 @@ while counter < maxy:
 	print(counter)
 	counter = counter + 1
 
+# function
+
+
+def halo():
+	print("this is from a function")
+
+	
+halo()
