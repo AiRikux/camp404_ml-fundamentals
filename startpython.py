@@ -1,4 +1,5 @@
 # We are still introduced to Python
+# https://github.com/AiRikux
 
 # basic python
 
@@ -35,5 +36,5 @@ while counter < maxy:
 def halo():
 	print("this is from a function")
 
-	
+
 halo()
