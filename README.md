@@ -3,6 +3,6 @@
  
  Their classes consist of:
  * zoom meeting on introductory for Python:
-   - startpython.py
-   - hello.py
+  - startpython.py
+  - hello.py
  * something
